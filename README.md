@@ -12,7 +12,7 @@
   * Greatest % Increase 
   * Greatest % Decrease
   * Greatest Total Volume
-  *
+  
 ![Results_2020_Wks](https://user-images.githubusercontent.com/113384120/217370135-90c22590-6994-442f-86a5-f87f2fb39153.jpg)
 
 * Conditional formatting is applied correctly and appropriately to the yearly change column &  to the percent change column. 
